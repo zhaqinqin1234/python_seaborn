@@ -1,2 +1,2 @@
 # python_seaborn
-visualization with python seaborn
+Visualization with python seaborn.
